@@ -1,10 +1,10 @@
 import os
 
 
-def feat1():
-    print("feat1")
+def feat1(name):
+    print(f"feat1: {name}")
 
 
 if __name__ == "__main__":
     print("hello world")
-    main()
+    feat1("kevin")
