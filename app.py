@@ -6,6 +6,7 @@ def Feat1(name, message):
     print(f"Feat1: {name}, {message}!")
     print("justdotit 2")
     print("dum 1111")
+    print("dum 2222")
 
 
 if __name__ == "__main__":
