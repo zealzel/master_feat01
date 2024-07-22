@@ -1,8 +1,8 @@
 import os
 
 
-def Feat1(name):
-    print(f"Feat1: {name}")
+def Feat1(name, message):
+    print(f"Feat1: {name}, {message!")
 
 
 if __name__ == "__main__":
